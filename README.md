@@ -1,4 +1,5 @@
-<h1>Figura de Teste (main):</h1>
+<h1>Figura de Teste (refatorado):</h1>
 
 
-<img width="1918" height="1078" alt="finanapp_main" src="https://github.com/user-attachments/assets/582a6916-b733-4f2a-84bc-fecf497744bb" />
+<img width="1918" height="1078" alt="finanapp_refatorado" src="https://github.com/user-attachments/assets/4d12cf79-1bb8-4f2e-89d1-9a8722a28d09" />
+
